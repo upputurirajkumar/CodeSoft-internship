@@ -5,14 +5,14 @@
   When a user inputs a message, the chatbot first processes this input to understand its intent and context. This can involve:
 
   Tokenization: Breaking down the input into individual words or tokens.
-  Normalization: Converting text to a standard form, such as lowercasing all words and removing punctuation.
+  Normalization: Converting text to a standard form, such as lowercase all words and removing punctuation.
   Pattern Matching: Using regular expressions or pattern templates to identify key phrases or commands in the input.
   
   2. Rule Evaluation
   Once the input is processed, the chatbot evaluates it against a set of predefined rules. These rules are created during the development of the chatbot and determine how it should respond. The rules can be simple or complex, depending on the application.
 
     Simple Rules: These involve straightforward pattern matching. For example, if the user input contains the word "hello," the chatbot might respond with "Hi there! How can I help you today?"
-    Complex Rules: These might involve multiple conditions or context. For example, if the user asks for the weather and the chatbot has access to weather data, it can respond appropriately.
+    Complex Rules: These might involve multiple conditions or contexts. For example, if the user asks for the weather and the chatbot has access to weather data, it can respond appropriately.
   3. Response Generation
     Based on the matched rule, the chatbot generates a response. The response can be static (a predefined text) or dynamic (generated based on some logic or data).
     Static Responses: These are fixed responses mapped directly to specific inputs.
@@ -40,7 +40,7 @@ No Learning: Cannot improve or learn from interactions over time.
 
 
 
-2.Tic Toc Toe
+2. Tic Tac Toe
 
 Explanation:
 Board Initialization:
